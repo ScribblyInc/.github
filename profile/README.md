@@ -1,4 +1,6 @@
-# ScribblyInc
+# The Pinboard Company
+
+### Scribbly - Scribble your mind in real time
 
 > Collaborate, sketch, and create on your digital whiteboard.
 
